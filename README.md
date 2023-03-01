@@ -26,7 +26,7 @@ To generate text, GPT-2 model is used. The process is as follows:
 The dataset used in this project is maryoliver_lines.csv, which contains poetry by Mary Oliver. Read more about the work on my website: www.benjaminchang.me/projects/poetry. Model based on GPT-2 (OpenAI) and code based on Scott Duda's previous work.
 
 ## Sample Generated Poems
-''''
+```
 When the sun stretches forward,
 turning toward the sky,
 I know what it is to feel
@@ -35,4 +35,4 @@ I don’t doubt what a person wants to be—
 to not only flutter but to have a pulse
 where the great energies of the world
 change us both into something better.
-''''
+```
